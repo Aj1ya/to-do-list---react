@@ -8,3 +8,5 @@ You will need to install
 * npm install --global expo-cli
 
 * expo start 
+
+Reference : https://www.youtube.com/watch?v=00HFzh3w1B8&t=602&ab_channel=MadeWithMatt
